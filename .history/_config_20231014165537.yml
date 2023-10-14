@@ -85,7 +85,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SolidLao"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-envelope"
       url: "2020141480308@stu.scu.edu.cn"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
