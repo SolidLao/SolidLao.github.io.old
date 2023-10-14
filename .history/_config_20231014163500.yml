@@ -16,7 +16,7 @@
 title: Jiale Lao
 email: 2020141480308@stu.scu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Jiale Lao, SolidLao, Database, Large Language Model, Knob Tuning, Bayesian Optimization, 2-hop labeling, Graph Database, Graph Neural Network
+  Jiale Lao, SolidLao, Database, Large Language Model, Knob Tuning, 2-hop labeling, Graph Database, Graph Neural Network,
 # twitter_username: username
 github_username: SolidLao
 minimal_mistakes_skin: default
@@ -56,40 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jiale Lao"
+  name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A dedicated undergraduate with a passion for advanced techniques in Database and Machine Learning"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SolidLao"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "2020141480308@stu.scu.edu.cn"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SolidLao"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "2020141480308@stu.scu.edu.cn"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
