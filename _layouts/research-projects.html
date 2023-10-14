@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign sorted_posts = site.posts | sort:"priority" %}
+
+<div class="archive">
+  {% for post in sorted_posts %}
+    <div class="archive__item">
+      <h2 class="archive__item-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>
