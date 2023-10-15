@@ -1,0 +1,18 @@
+---
+layout: single
+author_profile: true
+classes: wide
+---
+
+## **Publication**
+---
+
+**GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization**  
+**Jiale Lao**, Yibo Wang, Yufei Li, Zhiyuan Chen, Yunjia Zhang, Mingjie Tang, Jianguo Wang  
+In submission of VLDB 2024  
+
+<br>
+
+**PathBee: Accelerating Shortest Path Querying via Graph Neural Networks**  
+**Jiale Lao**, Yinghao Tang, Tingfeng Lan, Mingjie Tang, Yuanchun Zhou, Jianguo Wang  
+In submission of VLDB 2024  
