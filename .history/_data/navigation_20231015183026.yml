@@ -1,0 +1,9 @@
+main:
+  - title: "Research"
+    url: /researches/
+  - title: "Projects"
+    url: /categories/
+  - title: "Publications"
+    url: /publications/
+  - title: "Resume"
+    url: /assets/Resume_Jiale_Lao.pdf
