@@ -31,7 +31,7 @@ outcome:
 
 ## Publication
 
-GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [\[code\]](https://github.com/SolidLao/GPTuner)
+GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [\[paper\]](https://arxiv.org/abs/2311.03157) [\[code\]](https://github.com/SolidLao/GPTuner)
 - **Jiale Lao**, Yibo Wang, Yufei Li, Zhiyuan Chen, Yunjia Zhang, Mingjie Tang, Jianguo Wang
 - In submission to VLDB 2024
 
@@ -50,7 +50,6 @@ Modern database management systems (DBMS) expose hundreds of configurable knobs 
 5. 📌 GPTuner optimizes the search space in terms of the value range for each knob based on structured knowledge.
 6. 📌 GPTuner explores the optimized space via a novel Coarse-to-Fine Bayesian Optimization framework.
 7. 📌 Finally, GPTuner identifies satisfactory knob configurations within resource limits (e.g., the maximum optimization time or iterations specified by users). 
-
 
 ## Experimental Result
 
