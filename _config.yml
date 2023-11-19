@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jiale Lao
-email: 2020141480308@stu.scu.edu.cn
+email: laojiale@stu.scu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage, Jiale Lao, SolidLao, Database, Large Language Model, Knob Tuning, Bayesian Optimization, 2-hop labeling, Graph Database, Graph Neural Network
 # twitter_username: username
