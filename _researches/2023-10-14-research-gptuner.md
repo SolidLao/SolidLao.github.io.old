@@ -21,7 +21,7 @@ outcome:
     - "Yunjia Zhang"
     - "Mingjie Tang"
     - "Jianguo Wang"
-  paper_state: "In submission to VLDB 2024"
+  paper_state: "Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024."
 ---
 
 ## Advisor
