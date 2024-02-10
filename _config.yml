@@ -122,3 +122,6 @@ tag_archive:
 collections:
   researches:
     output: true
+
+
+excerpt_separator: "<!--more-->"
