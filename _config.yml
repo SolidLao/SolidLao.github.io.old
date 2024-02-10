@@ -118,10 +118,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
 collections:
   researches:
     output: true
-
-
-excerpt_separator: "<!--more-->"
