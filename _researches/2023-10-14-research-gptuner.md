@@ -31,7 +31,7 @@ outcome:
 
 ## Publication
 
-GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [\[paper\]](https://arxiv.org/abs/2311.03157) [\[code\]](https://github.com/SolidLao/GPTuner)
+GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization [\[paper\]](https://arxiv.org/abs/2311.03157) [\[code\]](https://github.com/SolidLao/GPTuner) [\[video\]](https://www.youtube.com/watch?v=Hz5Zck-9TlA)
 - **Jiale Lao**, Yibo Wang, Yufei Li, Zhiyuan Chen, Yunjia Zhang, Mingjie Tang, Jianguo Wang
 - In submission to VLDB 2024
 
